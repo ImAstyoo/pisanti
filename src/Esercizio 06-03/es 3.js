@@ -1,5 +1,5 @@
 // -si progetti e si scriva un algoritmo efficiente che dato un ABR u (u radice) e un valore k, stampi le chiavi di tutti i nodi di u a chiave <= k
-class node {
+class Node{
     left;
     right;
     key;
